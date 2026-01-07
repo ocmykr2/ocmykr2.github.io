@@ -9,4 +9,10 @@ venue: "SODA 2026"
 paperurl: "https://ocmyk2.github.io/files/FlowTimeDualFitting.pdf"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The problem of minimizing the total flow time on a single machine is one of the few problems for which we can give an optimal online algorithm: just schedule the job with the shortest remaining processing time (SRPT). However, this requires knowledge of the true running time p_j of each job j.
+
+Azar, Leonardi, and Touitou recently asked: what if we are given estimates p̃_j for each job, such that the multiplicative error between p̃_j and p_j (called the distortion) is at most μ? It is easy to construct examples where no algorithm can be o(μ)-competitive; can we get O(μ) competitiveness?
+
+We show how to achieve this asymptotically optimal result, improving on the previous best result of O(μ log μ). Moreover, we give a very simple algorithm to get this tight bound of O(μ); the previous ZigZag algorithm was relatively more involved.
+
+Our proof is via a dual-fitting argument based on the idea of a reduced instance: we consider an LP relaxation based on knapsack-cover inequalities, and show a solution with a large dual value. Our ideas can also be extended to give alternative dual-fitting arguments for previously analyzed algorithms (like SRPT, ZigZag, and others for minimizing the total flow time, and the Bansal–Dhamdhere algorithm for weighted flow-time minimization).
