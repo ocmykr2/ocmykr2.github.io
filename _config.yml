@@ -23,7 +23,7 @@ repository               : "ocmykr2/ocmykr2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhaozi.jpg"
   name             : "Zhaozi Wang"
   pronouns         : "he/his"  
   bio              : "TCS Researcher"
