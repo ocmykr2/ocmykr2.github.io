@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Computer Science at New York University. My research interests lie in scheduling, online algorithms, and algorithm design. I am very fortunate to be advised by [Anupam Gupta](https://cs.nyu.edu/~anupamg/).
+I am a second-year PhD student in Computer Science at New York University advised by [Anupam Gupta](https://cs.nyu.edu/~anupamg/). Prior to that, I received my Bachelor's Degree from the ACM Honors Class at Shanghai Jiao Tong University.
 
-Before starting my PhD, I received my Honors Bachelor Degree from the ACM Honors Class at Shanghai Jiao Tong University.
-
-## Acknowledgements
-
-I am grateful to the people who guided and mentored me during my undergraduate studies, including [Yuhao Zhang](http://www.zyhwtc.com), [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/), [Meng He](https://web.cs.dal.ca/~mhe/), and [Richard Peng](https://www.cs.cmu.edu/~yangp/).
+My research interests lie in theoretical computer science, with a focus on online algorithms, scheduling, and graph algorithms.
