@@ -6,7 +6,7 @@ permalink: "/publication/flow-time-dual-fitting"
 excerpt: "Robust flow time scheduling."
 date: "2026-01-09"
 venue: "SODA 2026"
-paperurl: "https://ocmyk2.github.io/files/FlowTimeDualFitting.pdf"
+paperurl: "https://ocmykr2.github.io/files/FlowTimeDualFitting.pdf"
 ---
 
 The problem of minimizing the total flow time on a single machine is one of the few problems for which we can give an optimal online algorithm: just schedule the job with the shortest remaining processing time (SRPT). However, this requires knowledge of the true running time $p_j$ of each job $j$.
