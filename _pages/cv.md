@@ -50,6 +50,10 @@ Represented SJTU at the 2023 ICPC World Finals
 
 - **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk.
 
+## Professional Service
+
+- **External Reviewer:** ISSAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
+
 ## Selected Systems Projects
 
 - **[RISC-V CPU Implemented in Verilog RTL](https://github.com/ocmykr2/RISCV-CPU-verilog)** — SJTU ACM Class Computer Architecture course project.
