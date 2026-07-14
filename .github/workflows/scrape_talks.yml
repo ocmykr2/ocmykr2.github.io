@@ -1,6 +1,7 @@
 name: Scrape Talk Locations
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'talks/**'
@@ -19,7 +20,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.9'   # Specify the Python version you need
+        python-version: '3.11'  # Required by current python-frontmatter releases
 
     - name: Install dependencies
       run: |
