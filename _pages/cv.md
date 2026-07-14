@@ -20,15 +20,6 @@ Sep. 2024 -- Present
 *B.S. in Computer Science*<br>
 Sep. 2020 -- Jun. 2024
 
-## Competitive Programming
-
-**Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
-Represented SJTU at the 2023 ICPC World Finals
-
-- **Honorable Mention**, 2023 ICPC World Finals, Luxor; **Champion**, 2022 ICPC Hong Kong Regional Contest.
-- **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
-- **2-time Gold Medalist**, CCPC Finals, 2022--2023; **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
-
 ## Selected Publications and Manuscripts
 
 1. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
@@ -53,6 +44,15 @@ Represented SJTU at the 2023 ICPC World Finals
 ## Professional Service
 
 - **External Reviewer:** ISSAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
+
+## Competitive Programming
+
+**Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
+Represented SJTU at the 2023 ICPC World Finals
+
+- **Honorable Mention**, 2023 ICPC World Finals, Luxor; **Champion**, 2022 ICPC Hong Kong Regional Contest.
+- **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
+- **2-time Gold Medalist**, CCPC Finals, 2022--2023; **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
 
 ## Selected Systems Projects
 
