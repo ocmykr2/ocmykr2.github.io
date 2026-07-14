@@ -48,7 +48,7 @@ Represented SJTU at the 2023 ICPC World Finals
 
 ## Invited Talks
 
-- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk on the SODA 2026 paper.
+- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk.
 
 ## Selected Systems Projects
 

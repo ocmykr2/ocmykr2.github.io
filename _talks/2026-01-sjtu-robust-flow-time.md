@@ -10,4 +10,4 @@ location: "Shanghai, China"
 duration: "1 hour"
 ---
 
-A one-hour invited presentation on [our SODA 2026 paper](/publication/flow-time-dual-fitting), covering an optimal online algorithm for robust single-machine flow-time scheduling.
+A one-hour invited presentation on robust single-machine flow-time scheduling.
