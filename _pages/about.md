@@ -11,6 +11,12 @@ I am a PhD student in Computer Science at New York University, where I am fortun
 
 My research interests lie in theoretical computer science, with a focus on online algorithms, scheduling, and graph algorithms.
 
+## Selected Publications
+
+**[FrontierCS: Evolving Challenges for Evolving Intelligence](/publication/frontiercs)** — **ICML 2026**<br>
+Qiuyang Mang, Wenhao Chai, ..., **Zhaozi Wang**, ..., Alvin Cheung.<br>
+[Paper](https://proceedings.mlr.press/v306/mang26a.html) | [Project](https://frontier-cs.org/) | [Code](https://github.com/FrontierCS/Frontier-CS)
+
 ## Research Projects
 
 **LLM-assisted Research Problem Generation** · *Ongoing*

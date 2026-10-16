@@ -22,19 +22,22 @@ Sep. 2020 -- Jun. 2024
 
 ## Selected Publications and Manuscripts
 
-1. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
+1. **[FrontierCS: Evolving Challenges for Evolving Intelligence](/publication/frontiercs)** — **ICML 2026**<br>
+   Qiuyang Mang, Wenhao Chai, ..., **Zhaozi Wang**, ..., Alvin Cheung.
+
+2. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-2. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** — **ICALP 2025 (Track A)**<br>
+3. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** — **ICALP 2025 (Track A)**<br>
    With Zhiyi Huang, Chui Shan Lee, and Xinkai Shu.
 
-3. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
+4. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
    With Zhiwei Ying and Yuhao Zhang.
 
-4. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
+5. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-5. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
+6. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
    With Aaron Bernstein and Anupam Gupta.
 
 ## Research Projects
