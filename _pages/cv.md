@@ -68,4 +68,4 @@ Represented SJTU at the 2023 ICPC World Finals
 
 ## Technical Skills
 
-- **Programming:** C++.
+- **Programming:** C++, Python.
