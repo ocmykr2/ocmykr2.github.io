@@ -31,11 +31,17 @@ Sep. 2020 -- Jun. 2024
 3. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
    With Zhiwei Ying and Yuhao Zhang.
 
-4. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — Submitted to **SODA 2027**<br>
+4. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-5. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — Submitted to **SODA 2027**<br>
+5. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
    With Aaron Bernstein and Anupam Gupta.
+
+## Research Projects
+
+**LLM-assisted Research Problem Generation** · *Ongoing*
+
+Adapted and refined an existing LLM-assisted research problem generation pipeline for theoretical computer science, with a focus on online algorithms. Designed domain-specific criteria for problem formulation and evaluation.
 
 ## Invited Talks
 
