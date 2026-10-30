@@ -39,7 +39,8 @@ Sep. 2020 -- Jun. 2024
 
 ## Research Projects
 
-**LLM-assisted Research Problem Generation** · *Ongoing*
+**[After42: Can AI Propose Interesting Research Questions?](https://after42.org/research/can-ai-propose-interesting-research-questions/)** · *2026*<br>
+[Project website](https://after42.org/)
 
 Adapted and refined an existing LLM-assisted research problem generation pipeline for theoretical computer science, with a focus on online algorithms. Designed domain-specific criteria for problem formulation and evaluation.
 
