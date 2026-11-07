@@ -39,8 +39,11 @@ Sep. 2020 -- Jun. 2024
 
 ## Research Projects
 
-**[After42: Can AI Propose Interesting Research Questions?](https://after42.org/research/can-ai-propose-interesting-research-questions/)** · *2026*<br>
-[Project website](https://after42.org/)
+**[After42: Can AI Propose Interesting Research Questions?](https://after42.org/research/can-ai-propose-interesting-research-questions/)**
+
+Core team: Fan Nie, Zihao Wang, Kaiyue Wen, Garrett Wen, **Zhaozi Wang**, Hai-Yang Wang, Denny Wu, Theodor Misiakiewicz, Joan Bruna, James Zou, Andrea Montanari, and Percy Liang.
+
+*Research post, 2026.* [Project website](https://after42.org/) · [Research post](https://after42.org/research/can-ai-propose-interesting-research-questions/)
 
 Adapted and refined an existing LLM-assisted research problem generation pipeline for theoretical computer science, with a focus on online algorithms. Designed domain-specific criteria for problem formulation and evaluation.
 
