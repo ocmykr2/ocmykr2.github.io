@@ -55,7 +55,8 @@ Represented SJTU at the 2023 ICPC World Finals
 - **Champion**, 2022 ICPC Hong Kong Regional Contest.
 - **Honorable Mention**, 2023 ICPC World Finals, Luxor.
 - **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
-- **2-time Gold Medalist**, CCPC Finals, 2022--2023; **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
+- **2-time Gold Medalist**, CCPC Finals, 2022--2023.
+- **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
 
 ## Invited Talks
 
