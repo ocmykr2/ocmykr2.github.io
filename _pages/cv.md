@@ -47,14 +47,6 @@ Core team: Fan Nie, Zihao Wang, Kaiyue Wen, Garrett Wen, **Zhaozi Wang**, Hai-Ya
 
 Adapted and refined an existing LLM-assisted research problem generation pipeline for theoretical computer science, with a focus on online algorithms. Designed domain-specific criteria for problem formulation and evaluation.
 
-## Invited Talks
-
-- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk.
-
-## Professional Service
-
-- **External Reviewer:** ISSAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
-
 ## Competitive Programming
 
 **Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
@@ -64,6 +56,14 @@ Represented SJTU at the 2023 ICPC World Finals
 - **Honorable Mention**, 2023 ICPC World Finals, Luxor.
 - **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
 - **2-time Gold Medalist**, CCPC Finals, 2022--2023; **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
+
+## Invited Talks
+
+- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk.
+
+## Professional Service
+
+- **External Reviewer:** ISSAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
 
 ## Selected Systems Projects
 
