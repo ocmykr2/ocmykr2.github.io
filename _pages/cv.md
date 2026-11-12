@@ -41,7 +41,7 @@ Sep. 2020 -- Jun. 2024
 5. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-6. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
+6. **[Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
    With Aaron Bernstein and Anupam Gupta.
 
 ## Research Projects
@@ -74,7 +74,7 @@ Studied and reproduced key works in AI alignment.
 
 ## Invited Talks
 
-- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, January 2026. One-hour invited talk.
+- **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/talks/2026-01-sjtu-robust-flow-time)** — Shanghai Jiao Tong University, Shanghai, China, December 2025. One-hour invited talk.
 
 ## Professional Service
 
