@@ -54,6 +54,13 @@ Core team: Fan Nie, Zihao Wang, Kaiyue Wen, Garrett Wen, **Zhaozi Wang**, Hai-Ya
 
 Redesigned parts of the LLM-based research-problem generation pipeline for theoretical computer science, and iteratively refined it based on our assessment of the online-algorithms problems it produced. Designed domain-specific criteria for formulating and evaluating problems.
 
+## AI Safety Training
+
+**ARENA Working Group, Collider NYC**<br>
+Fall 2026 -- Present
+
+Reproduced experiments on emergent misalignment, and followed up on recent work on whether AI systems act to avoid being shut down.
+
 ## Competitive Programming
 
 **Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
