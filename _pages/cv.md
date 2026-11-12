@@ -57,9 +57,9 @@ Redesigned parts of the LLM-based research-problem generation pipeline for theor
 ## AI Safety Training
 
 **ARENA Working Group, Collider NYC**<br>
-Fall 2026 -- Present
+Oct. 2026 -- Present
 
-Reproduced experiments on emergent misalignment, and followed up on recent work on whether AI systems act to avoid being shut down.
+Studied and reproduced key works in AI alignment.
 
 ## Competitive Programming
 
