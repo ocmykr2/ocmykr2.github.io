@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 Zhaozi Wang<br>
-[zw4460@nyu.edu](mailto:zw4460@nyu.edu) · +1 551-371-2906 · New York, NY
+[zw4460@nyu.edu](mailto:zw4460@nyu.edu) · +1 551-371-2906 · New York, NY · [ocmykr2.github.io](/)
+
+## Research Interests
+
+Online and approximation algorithms; scheduling; distributed algorithms; AI for mathematical discovery; AI safety.
 
 ## Education
 
@@ -20,21 +24,24 @@ Sep. 2024 -- Present
 *B.S. in Computer Science*<br>
 Sep. 2020 -- Jun. 2024
 
-## Selected Publications and Manuscripts
+## Publications and Manuscripts
 
-1. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
+1. **[FrontierCS: Evolving Challenges for Evolving Intelligence](https://proceedings.mlr.press/v306/mang26a.html)** — **ICML 2026**<br>
+   With Qiuyang Mang, Wenhao Chai, et al.
+
+2. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-2. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** — **ICALP 2025 (Track A)**<br>
+3. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** — **ICALP 2025 (Track A)**<br>
    With Zhiyi Huang, Chui Shan Lee, and Xinkai Shu.
 
-3. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
+4. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
    With Zhiwei Ying and Yuhao Zhang.
 
-4. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
+5. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-5. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
+6. **[Near-Optimal Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
    With Aaron Bernstein and Anupam Gupta.
 
 ## Research Projects
@@ -43,17 +50,17 @@ Sep. 2020 -- Jun. 2024
 
 Core team: Fan Nie, Zihao Wang, Kaiyue Wen, Garrett Wen, **Zhaozi Wang**, Hai-Yang Wang, Denny Wu, Theodor Misiakiewicz, Joan Bruna, James Zou, Andrea Montanari, and Percy Liang.
 
-*Research post, 2026.* [Project website](https://after42.org/) · [Research post](https://after42.org/research/can-ai-propose-interesting-research-questions/)
+*Research post, 2026.* [Project website](https://after42.org/)
 
-Adapted and refined an existing LLM-assisted research problem generation pipeline for theoretical computer science, with a focus on online algorithms. Designed domain-specific criteria for problem formulation and evaluation.
+Redesigned parts of the LLM-based research-problem generation pipeline for theoretical computer science, and iteratively refined it based on our assessment of the online-algorithms problems it produced. Designed domain-specific criteria for formulating and evaluating problems.
 
 ## Competitive Programming
 
 **Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
-Represented SJTU at the 2023 ICPC World Finals
+2020 -- 2023
 
-- **Champion**, 2022 ICPC Hong Kong Regional Contest.
 - **Honorable Mention**, 2023 ICPC World Finals, Luxor.
+- **Champion**, 2022 ICPC Hong Kong Regional Contest.
 - **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
 - **2-time Gold Medalist**, CCPC Finals, 2022--2023.
 - **10-time Gold Medalist**, ICPC/CCPC Regional Contests, 2020--2023.
@@ -64,13 +71,4 @@ Represented SJTU at the 2023 ICPC World Finals
 
 ## Professional Service
 
-- **External Reviewer:** ISSAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
-
-## Selected Systems Projects
-
-- **[RISC-V CPU Implemented in Verilog RTL](https://github.com/ocmykr2/RISCV-CPU-verilog)** — SJTU ACM Class Computer Architecture course project.
-- **[Compiler from Mx\* to RV32I Assembly](https://github.com/ocmykr2/Compiler)** — SJTU ACM Class Compiler Design course project.
-
-## Technical Skills
-
-- **Programming:** C++, Python.
+- **External Reviewer:** ISAAC 2026, FOCS 2026, ESA 2026, STACS 2026, ICALP 2026, ICALP 2024, and SODA 2024.
