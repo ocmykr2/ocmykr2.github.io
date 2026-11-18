@@ -1,6 +1,7 @@
 ---
 title: "The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization"
 collection: "publications"
+tcs: true
 category: "conferences"
 permalink: "/publication/long-arm-nashian-allocation"
 excerpt: "Optimal competitive ratios for online *p*-mean welfare maximization across the full range of *p*."

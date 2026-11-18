@@ -1,6 +1,7 @@
 ---
 title: "Distributed Load Balancing on Unrelated Machines"
 collection: "publications"
+tcs: true
 category: "manuscripts"
 permalink: "/publication/distributed-load-balancing-unrelated-machines"
 excerpt: "Polylog-round distributed approximation algorithms for load balancing on unrelated machines in the CONGEST model."

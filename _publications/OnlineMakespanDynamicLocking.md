@@ -1,6 +1,7 @@
 ---
 title: "Online Makespan Minimization: Beat LPT by Dynamic Locking"
 collection: "publications"
+tcs: true
 category: "conferences"
 permalink: "/publication/online-makespan-dynamic-locking"
 excerpt: "A dynamic-locking approach that improves on LPT for online makespan minimization with any fixed number of identical machines."

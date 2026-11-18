@@ -26,22 +26,24 @@ Sep. 2020 -- Jun. 2024
 
 ## Publications and Manuscripts
 
+*On papers marked TCS (theoretical computer science), authors are listed alphabetically by surname, with no implied ranking of contributions.*
+
 1. **[FrontierCS: Evolving Challenges for Evolving Intelligence](https://proceedings.mlr.press/v306/mang26a.html)** — **ICML 2026**<br>
    With Qiuyang Mang, Wenhao Chai, et al.
 
-2. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** — **SODA 2026**<br>
+2. **[An Optimal Online Algorithm for Robust Flow Time Scheduling](/publication/flow-time-dual-fitting)** <sup>TCS</sup> — **SODA 2026**<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-3. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** — **ICALP 2025 (Track A)**<br>
+3. **[The Long Arm of Nashian Allocation in Online *p*-Mean Welfare Maximization](/publication/long-arm-nashian-allocation)** <sup>TCS</sup> — **ICALP 2025 (Track A)**<br>
    With Zhiyi Huang, Chui Shan Lee, and Xinkai Shu.
 
-4. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** — **WINE 2025**<br>
+4. **[Online Makespan Minimization: Beat LPT by Dynamic Locking](/publication/online-makespan-dynamic-locking)** <sup>TCS</sup> — **WINE 2025**<br>
    With Zhiwei Ying and Yuhao Zhang.
 
-5. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** — In submission<br>
+5. **[Robust Flow Time Scheduling for Related Machines](/publication/robust-flow-time-related-machines)** <sup>TCS</sup> — In submission<br>
    With Anupam Gupta, Amit Kumar, and Debmalya Panigrahi.
 
-6. **[Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** — In submission<br>
+6. **[Distributed Load Balancing on Unrelated Machines](/publication/distributed-load-balancing-unrelated-machines)** <sup>TCS</sup> — In submission<br>
    With Aaron Bernstein and Anupam Gupta.
 
 ## Research Projects

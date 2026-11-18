@@ -1,6 +1,7 @@
 ---
 title: "Robust Flow Time Scheduling for Related Machines"
 collection: "publications"
+tcs: true
 category: "manuscripts"
 permalink: "/publication/robust-flow-time-related-machines"
 excerpt: "Robust flow-time scheduling in the related-machines setting."

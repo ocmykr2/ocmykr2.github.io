@@ -1,6 +1,7 @@
 ---
 title: "An Optimal Online Algorithm for Robust Flow Time Scheduling"
 collection: "publications"
+tcs: true
 category: "conferences"
 permalink: "/publication/flow-time-dual-fitting"
 excerpt: "Robust flow time scheduling."
