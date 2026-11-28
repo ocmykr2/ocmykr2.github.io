@@ -10,9 +10,11 @@ redirect_from:
 Zhaozi Wang<br>
 [zw4460@nyu.edu](mailto:zw4460@nyu.edu) · +1 551-371-2906 · New York, NY · [ocmykr2.github.io](/)
 
+[Download CV (PDF, one page)](/files/cv.pdf)
+
 ## Research Interests
 
-Online and approximation algorithms; scheduling; distributed algorithms; AI for mathematical discovery; AI safety.
+LLM, AI safety, AI for mathematical discovery; online and approximation algorithms; scheduling; distributed algorithms.
 
 ## Education
 
@@ -68,6 +70,7 @@ Studied and reproduced key works in AI alignment.
 **Team Captain, Team Willow, Shanghai Jiao Tong University**<br>
 2020 -- 2023
 
+- **Programming language:** C++.
 - **Honorable Mention**, 2023 ICPC World Finals, Luxor.
 - **Champion**, 2022 ICPC Hong Kong Regional Contest.
 - **4-time Gold Medalist**, ICPC Asia East Continent Final Contest, 2020--2023.
